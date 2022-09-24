@@ -1,4 +1,4 @@
-package variables;
+package basico;
 
 public class Clase2_Strings {
 
