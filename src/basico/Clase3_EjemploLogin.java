@@ -14,7 +14,7 @@ public class Clase3_EjemploLogin {
 		String user = in.next();
 		System.out.println("Ingresa la contraseña");
 		String pass = in.next();
-		if(user.equals(user) && password.equals(pass))
+		if(username.equals(user) && password.equals(pass))
 			System.out.println("Login correcto");
 		else
 			System.out.println("Login fallido");
