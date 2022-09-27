@@ -1,6 +1,6 @@
 package basico;
 
-public class Clase4EtiquetasBucles {
+public class Clase4_EtiquetasBucles {
 
 	public static void main(String[] args) {
 
